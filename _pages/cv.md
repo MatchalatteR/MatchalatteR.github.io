@@ -8,57 +8,42 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Email: marshallrui@gmail.com**
+
+**GPA:** 	**3.80/4.0 (87.18/100)**
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in **Hangzhou City Univercity**, 2024
+* Exchange Program in **ZheJiang University**, 2023
 
-Work experience
+Working experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **High-Performance Computing Engineer**, Hangzhou City University Supercomputing Center, Jul 2024
+  * **Large Language Model (LLM) Optimization**: Conducted performance optimization for LLama70B, specifically focusing on enhancing inference speed through the implementation of parallel inference frameworks.
+  * **Computational Operator Optimization in HPC**: Executed performance optimizations for computational operators within traditional high-performance computing (HPC) environments, aiming to improve computational efficiency and throughput.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  - Feb. 2024: **Team Leader, Scond Prize @** [ASC24 Student Supercomputer Challenge Preliminary](http://www.asc-events.net/StudentChallenge/index.html)
   
+  - Aug. 2023: **Team Leader, Excellence Award @**[  "Shenwei-Guoshi Cup" 7th National CPU Parallel Application Challenge](http://www.paratera-edu.org.cn/resource/index)
+  
+  - Aug. 2022: **Team Leader, Excellence Award @** [ACM China - International Parallel Computing Challenge](http://www.paratera-edu.org.cn/resource/index)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming Languages**
+  - **C/C++:** experience in C/C++ programming, demonstrating strong foundational knowledge and adherence to best performance coding practices.
+  - **Python** experience in C/C++ programming, utilized for various computational and data analysis tasks.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Heterogeneous Computing and Parallel Programming**
+  - **CUDA/OpenMP/MPI:** Skilled in CUDA, OpenMP, and MPI parallel programming models, capable of developing efficient parallel programs using these technologies. Familiar with the CUDA computational model and its architectural evolutions.
+  - **Libraries and Tools:** Experienced in using cuBLAS and Intel MKL libraries for high-performance mathematical and linear algebra computations.
+
+- **Linux System Skills**
+  - **System Calls and Low-Level Programming:** Proficient in Linux system calls and x86 assembly language, familiar with low-level assembly instructions, capable of low-level system programming.
+  - **Performance Analysis and Optimization:** Skilled in utilizing profiling and analysis tools such as Profile, Vtune, gperf, and Valgrind for in-depth performance analysis and optimization. Capable of diagnosing and resolving complex performance issues.
+  - **Code Analysis and Debugging:** Familiar with Debug tools, experienced in using gdb, NVIDIA Nsight for code analysis and debugging.
+
