@@ -22,7 +22,7 @@ Experience
 Awards
 ======
 
-  - Feb. 2024: **Team Leader, Scond Prize** @ [ASC24 Student Supercomputer Challenge Preliminary](http://www.asc-events.net/StudentChallenge/index.html)
+  - Feb. 2024: **Team Leader, Second Prize** @ [ASC24 Student Supercomputer Challenge Preliminary](http://www.asc-events.net/StudentChallenge/index.html)
   
   - Aug. 2023: **Team Leader, Excellence Award** @ ["Shenwei-Guoshi Cup" 7th National CPU Parallel Application Challenge](http://www.paratera-edu.org.cn/resource/index)
   
