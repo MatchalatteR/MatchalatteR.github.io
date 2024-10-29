@@ -11,11 +11,11 @@ Hello! 😊 I'm Rui Hu, a proud graduate of Hangzhou City University. With a sol
 
 Experience
 ======
-  - Jul. 2024: **HPC Engineer** @ [HangZhou City University Supercomputing Center](http://www.hzcu.edu.cn/index.html)
+  - Jul. 2024: **HPC Engineer** @ [Hangzhou City University Supercomputing Center](http://www.hzcu.edu.cn/index.html)
 
-  - Jul. 2024: **HPCT Competition Mentor** @ [HangZhou City University Supercomputing Center HPC-Team](https://github.com/HZCU-HPCT/)
+  - Jul. 2024: **HPCT Competition Mentor** @ [Hangzhou City University Supercomputing Center HPC-Team](https://github.com/HZCU-HPCT/)
   
-  - Seq. 2023: **HPC Internship** @ [HangZhou City University Supercomputing Center](http://www.hzcu.edu.cn/index.html)
+  - Seq. 2023: **HPC Internship** @ [Hangzhou City University Supercomputing Center](http://www.hzcu.edu.cn/index.html)
 
   - Mar. 2023: **Research Intern** @ [Zhejiang University ARClab](http://arc.zju.edu.cn/main.htm)
 
