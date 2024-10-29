@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * B.S. in **Hangzhou City Univercity**, 2024
-* Exchange Program in **ZheJiang University**, 2023
+* Exchange Program in **Zhejiang University**, 2023
 
 Working experience
 ======

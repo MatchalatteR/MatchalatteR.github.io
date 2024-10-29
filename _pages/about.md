@@ -17,7 +17,7 @@ Experience
   
   - Seq. 2023: **HPC Internship** @ [HangZhou City University Supercomputing Center](http://www.hzcu.edu.cn/index.html)
 
-  - Mar. 2023: **Research Intern** @ [ZheJiang University ARClab](http://arc.zju.edu.cn/main.htm)
+  - Mar. 2023: **Research Intern** @ [Zhejiang University ARClab](http://arc.zju.edu.cn/main.htm)
 
 Awards
 ======
